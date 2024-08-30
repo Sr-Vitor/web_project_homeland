@@ -25,3 +25,6 @@ Planos de Melhoria:
 	•	Melhoria no Carregamento de Imagens: Implementar técnicas de carregamento progressivo para otimizar o desempenho em dispositivos móveis.
 
 Este projeto é uma ótima adição ao portfólio, pois demonstra habilidades em design responsivo, estrutura semântica, e aplicação de boas práticas de CSS, além de ser um exemplo criativo de como combinar arte e tecnologia.
+
+
+Você consegue acessar meu site seguindo o link: https://sr-vitor.github.io/web_project_homeland/
